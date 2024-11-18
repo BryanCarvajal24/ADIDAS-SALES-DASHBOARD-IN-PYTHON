@@ -11,8 +11,8 @@ Este proyecto es un dashboard desarrollado en Python que visualiza datos de vent
 
 ## Archivos
 
-- [Código del Dashboard (py)](dashboard_adidas.py): Código principal para generar el dashboard.
-- [Dataset de ventas de Adidas (xlsx)](datasetadidas.xlsx): Archivo de datos utilizado para la visualización del dashboard.
+- [Descargar Código del Dashboard (py)](dashboard_adidas.py)
+- [Descargar Dataset de ventas de Adidas (xlsx)](datasetadidas.xlsx)
 
 ## Autor
 **BRYAN FERNANDO BURBANO CARVAJAL**  
